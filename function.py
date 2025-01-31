@@ -1,5 +1,3 @@
-
-from pprint import pprint
 def get_contact():
     name=input("please enter a name : ")
     phonneNumber=input("please enter phone number")
@@ -8,5 +6,5 @@ def get_contact():
     return contact_dict
 
 
-print(get_contact())
+# print(get_contact())
 
